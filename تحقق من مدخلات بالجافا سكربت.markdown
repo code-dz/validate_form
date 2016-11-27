@@ -1,8 +1,0 @@
-تحقق من مدخلات بالجافا سكربت
-----------------------------
-HTML form validation  by a JavaScript.
-التحقق من صحة النموذج من قبل جافا سكريبت
-
-A [Pen](http://codepen.io/meksiabdou/pen/qZRjbQ) by [Meksi Abdou](http://codepen.io/meksiabdou) on [CodePen](http://codepen.io/).
-
-[License](http://codepen.io/meksiabdou/pen/qZRjbQ/license).
